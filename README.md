@@ -13,7 +13,6 @@ This project analyzes electricity consumption and electricity bills using Python
 ## Technologies Used
 - Python
 - NumPy
-- Pandas (if used in the project)
 - Matplotlib
 - CSV files
 
